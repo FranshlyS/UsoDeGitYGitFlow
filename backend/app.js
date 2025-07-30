@@ -20,4 +20,4 @@ app.get('/', (req, res) => {
   res.json({ message: 'API CRUD funcionando correctamente' });
 });
 
-module.exports = app;
+module.exports = app; 
